@@ -56,10 +56,15 @@ THEN I am able to successfully create, update, and delete data in my database
   - Once you see "This application is now listening on port: 3001" msg in the terminal, you can refer to Insomnia.
     - Walkthrough Video (for more guidance): https://drive.google.com/file/d/1nA77FflJy1JEgvdCwOdFIknbdtt6UufC/view
   - Here is a sample screenshots of my application :
-    - View all Categories: ![Screenshot of Initial Page](./)
-    - View all Products: ![Screenshot of Showing existing notes](./)
-    - View all Product-tags ![Screenshot of Saving new note](./)
-    - GET /api/categories ![Screenshot of Deleting previously saved note](./)
+    - View all Categories: ![Screenshot of Initial Page](./assets/ViewAllC.png)
+    - View all Products: ![Screenshot of Showing existing notes](./assets/ViewAllProducts.png)
+    - View all Product-tags ![Screenshot of Saving new note](./assets/ViewAllTags.png)
+    - View one Categories: ![Screenshot of Initial Page](./assets/ViewOneCategory.png)
+    - View one Products: ![Screenshot of Showing existing notes](./assets/ViewOneProduct.png)
+    - View one Product-tags ![Screenshot of Saving new note](./assets/ViewOneproductTag.png)
+    - Create one Categories: ![Screenshot of Initial Page](./assets/CreateCategory.png)
+    - Create one Products: ![Screenshot of Showing existing notes](./assets/CreateProduct.png)
+    - Create one Product-tags ![Screenshot of Saving new note](./assets/CreateProductTag.png)
 
 ## Command line code
 
