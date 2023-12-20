@@ -1,6 +1,6 @@
 # myEcommerceORM
 ## Description
-- This project will take a working Express.js API and configure it to use Sequelize to interact with my MySQL database
+- The purpose of this challenge was to enhance skills regarding working with Express.js API and configure it to use Sequelize to interact with MySQL database (for my app the database name is "ecommerce_db"). This was node command line based application which used dotenv and nodemon and Insomnia to view, update or delete existing database tables.
 ## Table of Contents
   - [Installation](#installation)
   - [Required Task](#required-task)
