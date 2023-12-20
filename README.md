@@ -1,4 +1,4 @@
-# myEcommerceORM
+# Object-Relational Mapping (ORM) Challenge: E-commerce Back End
 ## Description
 - The purpose of this challenge was to enhance skills regarding working with Express.js API and configure it to use Sequelize to interact with MySQL database (for my app the database name is "ecommerce_db"). This was node command line based application which used dotenv and nodemon and Insomnia to view, update or delete existing database tables.
 ## Table of Contents
@@ -9,7 +9,6 @@
   - [Credits](#credits)
   - [License](#license)
   - [Tests](#tests)
-  - [Deploying to Heroku](#deploying-to-heroku)
 
 ## Installation
 
@@ -64,12 +63,13 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Command line code
 
 I used the following command lines:
-- npm run start [ You may need this to start the server ]
-- npm i express [To install modules if you do ot see it ]
+- npm run start [ To start the server ]
+- npm i [To install modules ]
+- npm run seed
+- mysql -u root -p
 - git status
 - git add -A
 - git commit -m "Comment goes here"
-- git branch
 - git pull origin main
 - git push
 - git checkout main
