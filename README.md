@@ -54,7 +54,7 @@ THEN I am able to successfully create, update, and delete data in my database
   - Type "npm run seed" to help seed populate the database
   - Tupe "npm run start" or "npm run watch" to start the server.
   - Once you see "This application is now listening on port: 3001" msg in the terminal, you can refer to Insomnia.
-    - Walkthrough Video (for more information): https://drive.google.com/file/d/1nA77FflJy1JEgvdCwOdFIknbdtt6UufC/view
+    - Walkthrough Video (for more information): https://drive.google.com/file/d/1hXSGeCeLvbY6oMnSwpYuSnwUp6S8fpcF/view 
   - Here is a sample screenshots of my application :
     - View all Categories [GET routes]: ![Screenshot](./assets/ViewAllC.png)
     - View all Products [GET routes]: ![Screenshot](./assets/ViewAllProducts.png)
