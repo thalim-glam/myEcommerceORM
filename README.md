@@ -46,19 +46,20 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## User Instruction
 
-  - Click here for the repository: https
-  - Click here for Readme file: https
-  - Click here for the Heroku-deployed link :  
-  - When the Note Taker page loads, click on the "Get started".
-  - Enter text into the "Title" and "Text" fields and click "Save Note".
-  - To access previous notes, click on the saved notes on the left.
-  - To clear form click the "Clear Form" button.
+  - Start git bash or Terminal and navigate to the application.
+  - If cannot find JSON file, please type "npm init -y".
+  - Naviagate to the db folder and open integrated terminal.
+  - Type "mysql -u root -p" to connect to db.
+  - Source schema.sql and quit from mysql.
+  - Type "npm run seed" to help seed populate the database
+  - Tupe "npm run start" or "npm run watch" to start the server.
+  - Once you see "This application is now listening on port: 3001" msg in the terminal, you can refer to Insomnia.
+    - Walkthrough Video (for more guidance): https://drive.google.com/file/d/1nA77FflJy1JEgvdCwOdFIknbdtt6UufC/view
   - Here is a sample screenshots of my application :
-    - Walkthrough Video link: https://drive.google.com/file/d/1nA77FflJy1JEgvdCwOdFIknbdtt6UufC/view
-    - Initial Page ![Screenshot of Initial Page](./public/images/initial_page.png)
-    - Existing notes ![Screenshot of Showing existing notes](./public/images/showing_exiting_note.png)
-    - Saving New note ![Screenshot of Saving new note](./public/images/saving_new_note.png)
-    - Deleting Note (BONUS) ![Screenshot of Deleting previously saved note](./public/images/deleted_note.png)
+    - View all Categories: ![Screenshot of Initial Page](./)
+    - View all Products: ![Screenshot of Showing existing notes](./)
+    - View all Product-tags ![Screenshot of Saving new note](./)
+    - GET /api/categories ![Screenshot of Deleting previously saved note](./)
 
 ## Command line code
 
