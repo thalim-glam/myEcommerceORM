@@ -54,17 +54,23 @@ THEN I am able to successfully create, update, and delete data in my database
   - Type "npm run seed" to help seed populate the database
   - Tupe "npm run start" or "npm run watch" to start the server.
   - Once you see "This application is now listening on port: 3001" msg in the terminal, you can refer to Insomnia.
-    - Walkthrough Video (for more guidance): https://drive.google.com/file/d/1nA77FflJy1JEgvdCwOdFIknbdtt6UufC/view
+    - Walkthrough Video (for more information): https://drive.google.com/file/d/1nA77FflJy1JEgvdCwOdFIknbdtt6UufC/view
   - Here is a sample screenshots of my application :
-    - View all Categories: ![Screenshot of Initial Page](./assets/ViewAllC.png)
-    - View all Products: ![Screenshot of Showing existing notes](./assets/ViewAllProducts.png)
-    - View all Product-tags ![Screenshot of Saving new note](./assets/ViewAllTags.png)
-    - View one Categories: ![Screenshot of Initial Page](./assets/ViewOneCategory.png)
-    - View one Products: ![Screenshot of Showing existing notes](./assets/ViewOneProduct.png)
-    - View one Product-tags ![Screenshot of Saving new note](./assets/ViewOneproductTag.png)
-    - Create one Categories: ![Screenshot of Initial Page](./assets/CreateCategory.png)
-    - Create one Products: ![Screenshot of Showing existing notes](./assets/CreateProduct.png)
-    - Create one Product-tags ![Screenshot of Saving new note](./assets/CreateProductTag.png)
+    - View all Categories [GET routes]: ![Screenshot](./assets/ViewAllC.png)
+    - View all Products [GET routes]: ![Screenshot](./assets/ViewAllProducts.png)
+    - View all Product-tags [GET routes]: ![Screenshot](./assets/ViewAllTags.png)
+    - View one Categories [GET routes]: ![Screenshot](./assets/ViewOneCategory.png)
+    - View one Products [GET routes]: ![Screenshot](./assets/ViewOneProduct.png)
+    - View one Product-tags [GET routes]: ![Screenshot](./assets/ViewOneproductTag.png)
+    - Create one Categories [POST routes]: ![Screenshot](./assets/CreateCategory.png)
+    - Create one Products [POST routes]: ![Screenshot](./assets/CreateProduct.png)
+    - Create one Product-tags [POST routes]: ![Screenshot](./assets/CreateProductTag.png)
+    - Update one Categories [PUT routes]: ![Screenshot](./assets/UpdateCategory.png)
+    - Update one Products [PUT routes]: ![Screenshot](./assets/UpdateaProduct.png)
+    - Update one Product-tags [PUT routes]: ![Screenshot](./assets/UpdateaTag.png)
+    - Delete one Categories [DELETE routes]: ![Screenshot ](./assets/DeleteaCategory.png)
+    - Delete one Products [DELETE routes]: ![Screenshot ](./assets/DeleteaProduct.png)
+    - Delete one Product-tags [DELETE routes]: ![Screenshot ](./assets/DeleteaTag.png)
 
 ## Command line code
 
